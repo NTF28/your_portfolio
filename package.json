@@ -1,0 +1,11 @@
+{
+    "name": "fronpage_portfolio",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "serve ./public",
+      "build": "echo 'Build complete'"
+    },
+    "devDependencies": {
+      "serve": "^14.0.0"
+    }
+  }
